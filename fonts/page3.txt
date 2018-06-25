@@ -1,0 +1,561 @@
+
+ 			
+                            
+        
+        
+        
+                            <tr>
+                                            <th class='img'></th>
+                                            <th>Case</th>
+                                            <th>Contributors</th>
+                                            <th class='replies'>Replies</th>
+                                            <th>Latest Post</th>
+                                            <th>Fonts Identified</th>
+                                            <th class='status'>Status</th>
+                                    </tr>
+            
+            
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_151' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403076/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/cf/cfbd241483fc5b0be014b051556a33c8.10963.jpeg' style='width:105px;height:132px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403076/'>(no title)</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/zqgcvocj1p/wtf/'>rosaposer</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.optimo.ch/typefaces_Stanley_Poster.html' title="Link to optimo.ch" class="external" target="_blank">Stanley Poster</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_152' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1401644/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/6d/6d63d5af8c897cdb191da48bf686378b.5755.jpeg' style='width:177px;height:39px' alt='' title="need this font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1401644/'>need this font</a><br><span class='when_started'>started 5 days ago</span></td>
+                                                    <td><a href='/users/f7r7o7wc4r/wtf/'>m.rishad26@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/charlesborges/sarah-script/sarah-script/'>Sarah Script</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_153' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403158/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/7f/7f0a72fdcec587fcce87197161aafb94.21863.jpeg' style='width:177px;height:52px' alt='' title="Marina Balzano  - help -"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403158/'>Marina Balzano  - help -</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/v8seil0zjl/wtf/'>grafica@&hellip;</a>,<br><a href='/users/9cwgdwl14w/wtf/'>Polya</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.dafont.com/jellyka-castles-queen.font?text=Marina+Balzano&amp;psize=l&amp;back=author' title="Link to dafont.com" class="external" target="_blank">Jellyka Castle&#039;s Queen</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_154' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403127/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/18/18ac07d4332f0325d8ea10a6ad0e2419.6794.jpeg' style='width:177px;height:65px' alt='' title="Font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403127/'>Font</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/20vbpiswtk/wtf/'>irachampion@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>4</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.fontfabric.com/weston-free-font/' title="Link to fontfabric.com" class="external" target="_blank">Weston</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_155' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403126/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/53/5367cadddae90cee5b96d23dbcac344d.6456.jpeg' style='width:177px;height:32px' alt='' title="Help!"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403126/'>Help!</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/hvdjhggrvu/wtf/'>subatomic09@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://processtypefoundry.com/fonts/stratum-1-and-2/' title="Link to processtypefoundry.com" class="external" target="_blank">Stratum 1</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_156' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402676/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/75/7586ac4bd72422fd9ac813f26765f94e.2627.jpeg' style='width:131px;height:62px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402676/'>(no title)</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/obj6v4rlef/wtf/'>yamihi3130@&hellip;</a>,<br><a href='/users/rq4w4mykxc/wtf/'>olivier.bell&hellip;</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.myfonts.com/fonts/bitstream/handel-gothic/'>Handel Gothic</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_157' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402650/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/97/9744ce618a2d8f5d1221ee6f93a1c4ae.15155.jpeg' style='width:177px;height:35px' alt='' title="Georgia McBride"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402650/'>Georgia McBride</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/sw3vcznufp/wtf/'>freddie.bill&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.stereo-type.fr/fonts/beyond-the-mountains/' title="Link to stereo-type.fr" class="external" target="_blank">Beyond The Mountains</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_158' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403095/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/f6/f64ab6b0cc4d1a5082610d566485c745.40205.jpeg' style='width:177px;height:94px' alt='' title="Can\&amp;#039;t identify font of boxy numbers"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403095/'>Can\&#039;t identify font of boxy numbers</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/1z3bkswlii/wtf/'>michellew122&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/linotype/eurostile/bold-extended-2-63893/'>Eurostile Bold Extended #2</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_159' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403102/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/85/852295a04e0363a54679e1bf17642f1e.12288.jpeg' style='width:177px;height:66px' alt='' title="What font?"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403102/'>What font?</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/2glju8cttu/wtf/'>crachellee@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/typesenses/limon/script-outline-regular/'>Limon Script Outline Regular</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_160' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403094/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/78/7820cb549a4bce39e59ad6681c99af94.1190.jpeg' style='width:87px;height:26px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403094/'>(no title)</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/wpu45q5apy/wtf/'>wanita.bess@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/champagne-limousines.font' title="Link to dafont.com" class="external" target="_blank">Champagne &amp; Limousines</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_161' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402903/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/37/3745aa7cf63625a14805d23b04a05055.10746.jpeg' style='width:136px;height:132px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402903/'>(no title)</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/gvzez7x8yo/wtf/'>Aaliyahx</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/happy-camper.font?text=emma' title="Link to dafont.com" class="external" target="_blank">Happy Camper</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_162' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403084/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/bf/bfa4856dc27c339debd338b3e38d845f.13093.jpeg' style='width:177px;height:18px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403084/'>(no title)</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/4dwagh0gu3/wtf/'>Anthony@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/linotype/avenir/pro-55-roman-115678/'>Avenir 55 Roman</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_163' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403092/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/f7/f7e26e4ec99d4924e588b5a31862109b.30688.jpeg' style='width:177px;height:68px' alt='' title="MT Auto"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403092/'>MT Auto</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/7udbblkx3g/wtf/'>vlachute77@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.google.com/fonts/specimen/New+Rocker' title="Link to google.com" class="external" target="_blank">New Rocker</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_164' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403093/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/27/2741653ea4410cd9486db1179f7fa04e.58806.jpeg' style='width:174px;height:132px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403093/'>(no title)</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/ubtc3510mq/wtf/'>erikamoore@&hellip;</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://fontbundles.net/geekmissy/11032-pinsetter-three-fun-fonts' title="Link to fontbundles.net" class="external" target="_blank">Pinsetter</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_165' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403072/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/d0/d04777957d872439cb96364d51b678c4.61632.jpeg' style='width:177px;height:62px' alt='' title="70s SCRIPTY"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403072/'>70s SCRIPTY</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/kts0j4myqa/wtf/'>hepcat_rapha&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>4</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/positype/lust-script/regular/'>Lust Script</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_166' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403006/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/a0/a022c6dce731c9ffb0566534255ce1a5.3578.jpeg' style='width:177px;height:33px' alt='' title="I have no idea......"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403006/'>I have no idea......</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/u0fi58aqf7/wtf/'>niksagkram@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/add-city-boy.font' title="Link to dafont.com" class="external" target="_blank">Add City Boy</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_167' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403054/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/01/010f5ec393532bffedc0567b360ea790.8251.jpeg' style='width:177px;height:41px' alt='' title="Takki Station"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403054/'>Takki Station</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/s5w0gkxmwm/wtf/'>lauro.amorim&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/mti/matura-mt/script-capitals/'>Matura MT Script Capitals</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_168' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402402/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/c1/c1a0f69dce48f94cf440747b5fa75fcd.16060.jpeg' style='width:177px;height:103px' alt='' title="Calderwood\&amp;#039;s Grocery font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402402/'>Calderwood\&#039;s Grocery font</a><br><span class='when_started'>started 4 days ago</span></td>
+                                                    <td><a href='/users/jvaytycfbw/wtf/'>p2da4th</a>,<br><a href='/users/dtyoeucgdi/wtf/'>Akira1975</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.bertholdtypes.com/font/flange/bq/' title="Link to bertholdtypes.com" class="external" target="_blank">Flange</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_169' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403056/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/10/109c5a2481cb259ae43db837984a38a4.7840.jpeg' style='width:142px;height:132px' alt='' title="WTF"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403056/'>WTF</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/ctj3o2uztn/wtf/'>tgongora0@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/mti/gill-sans/pro-ultra-bold/'>Gill Sans UltraBold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_170' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1400763/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/29/29e8f1f95b85c664cb6fd1dbd81f3655.95904.jpeg' style='width:177px;height:54px' alt='' title="TRANSX Font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1400763/'>TRANSX Font</a><br><span class='when_started'>started 1 week ago</span></td>
+                                                    <td><a href='/users/dlqmimkjy5/wtf/'>lexis.lisama&hellip;</a>,<br><a href='/users/ga7tx59cl0/wtf/'>hazoo</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.dafont.com/kill-em-all.font' title="Link to dafont.com" class="external" target="_blank">Kill Em All</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_171' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403035/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/1e/1e9bad2facd80567d840a5b8ccbb1e8a.22111.jpeg' style='width:177px;height:22px' alt='' title="Forest Hill LA"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403035/'>Forest Hill LA</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/yn9oa0ldi1/wtf/'>idesigngraph&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/mawns/brannboll/fet-swash/'>Brannboll Fet Swash</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_172' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1392984/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/ff/ffd17fc50287f74ee94da7855dfeda6d.28635.jpeg' style='width:177px;height:50px' alt='' title="not murray hill"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1392984/'>not murray hill</a><br><span class='when_started'>started 3 weeks ago</span></td>
+                                                    <td><a href='/users/p3afyguhxb/wtf/'>jimithegreek&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/typadelic/sweetheart-script/regular/'>Sweetheart Script</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_173' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1403045/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/55/55183f69d3addd3188ceb13a1b02ae98.6157.jpeg' style='width:177px;height:32px' alt='' title="Help! Thought Avant Garde or Futura, but no..."></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1403045/'>Help! Thought Avant Garde or Futura, but no...</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/ow1pj1bong/wtf/'>margaret_par&hellip;</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li class='unsolved'>None yet</li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_174' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1394435/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/9a/9a48fa64eee8b56d00c94bef647162d4.3512.jpeg' style='width:177px;height:43px' alt='' title="sk"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1394435/'>sk</a><br><span class='when_started'>started 3 weeks ago</span></td>
+                                                    <td><a href='/users/bmp5qx6715/wtf/'>islandgirlF6&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/nicky-laatz/blooming-elegant/regular/'>Blooming Elegant Regular</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_175' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1399036/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/2e/2e87a90594af6a49ca340d72a54ace05.5101.jpeg' style='width:177px;height:85px' alt='' title="Shake"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1399036/'>Shake</a><br><span class='when_started'>started 1 week ago</span></td>
+                                                    <td><a href='/users/bmp5qx6715/wtf/'>islandgirlF6&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://creativemarket.com/emilyspadoni/189089-Carried-Away-Script-Monogram' title="Link to creativemarket.com" class="external" target="_blank">Carried Away</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_176' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1394857/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/db/db5f6a6b9fd082c24076357e63055f6d.6212.jpeg' style='width:177px;height:106px' alt='' title="FATHER"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1394857/'>FATHER</a><br><span class='when_started'>started 2 weeks ago</span></td>
+                                                    <td><a href='/users/bmp5qx6715/wtf/'>islandgirlF6&hellip;</a></td>
+                                                    <td class='replies'>1</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li class='unsolved'>None yet</li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_177' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402941/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/70/70c9cb8d3257903051f33293d5132083.5706.jpeg' style='width:177px;height:43px' alt='' title="chip2"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402941/'>chip2</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/bmp5qx6715/wtf/'>islandgirlF6&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/adobe/serpentine/bold/'>Serpentine Std Bold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_178' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1401047/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/a5/a552e9a28ef174b8d697044ac51959f1.7623.jpeg' style='width:177px;height:72px' alt='' title="Nichols Marine Font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1401047/'>Nichols Marine Font</a><br><span class='when_started'>started 6 days ago</span></td>
+                                                    <td><a href='/users/3769kbmqeh/wtf/'>chad@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/linotype/futura/pro-bold/'>Futura Bold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_179' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402869/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/1b/1b6d7b1cd36d843db8c9f03b0d5cad2f.9354.jpeg' style='width:177px;height:27px' alt='' title="chips"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402869/'>chips</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/bmp5qx6715/wtf/'>islandgirlF6&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>5</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/itc/blackmoor/blackmoor/'>Blackmoor</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_180' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1400014/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/ea/eaa1443843a3808a846c0f89ce976fdc.41886.jpeg' style='width:177px;height:37px' alt='' title="need help with this font plz"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1400014/'>need help with this font plz</a><br><span class='when_started'>started 1 week ago</span></td>
+                                                    <td><a href='/users/l32jk37kom/wtf/'>danielvr198@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://www.dafont.com/casual.font' title="Link to dafont.com" class="external" target="_blank">Casual</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_181' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402945/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/22/2280dac0ab16b72a40f0c1de5784ac3e.26990.jpeg' style='width:177px;height:70px' alt='' title="Not Sure!"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402945/'>Not Sure!</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/olqyewch5j/wtf/'>mrmckillu@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/samarkan.font' title="Link to dafont.com" class="external" target="_blank">Samarkan</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_182' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402969/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/16/166ad167ffd18564f3a9e7a70e876112.5247.jpeg' style='width:177px;height:35px' alt='' title="sans serif font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402969/'>sans serif font</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/w3qbfuq24b/wtf/'>simonandru@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/itc/avant-garde-gothic/std-bold/'>ITC Avant Garde Gothic Std Bold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_183' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402961/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/d7/d701c14c9fdc86b3b56b98873ad6081b.19863.jpeg' style='width:177px;height:71px' alt='' title="Help please"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402961/'>Help please</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/hdmppqax52/wtf/'>dmorris2</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/mti/bernard-mt/std-condensed/'>Monotype Bernard Std Condensed</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_184' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402791/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/06/061616e63edc29bd3e6936ed2665e56f.30428.jpeg' style='width:177px;height:45px' alt='' title="Condensed Sans"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402791/'>Condensed Sans</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/lywe15usk2/wtf/'>mollusk</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/gobold.font' title="Link to dafont.com" class="external" target="_blank">Gobold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_185' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402954/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/16/16b7a0ca70b3d37b3ee3fc6989ff7b6b.55503.jpeg' style='width:177px;height:80px' alt='' title="Help with font"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402954/'>Help with font</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/e5taj0fe3h/wtf/'>mrk5</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/urw/latienne/urw-swash-t-bold-italic/'>Latienne URW Bold Italic Swash</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_186' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402790/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/15/15ee1063e74f54ac3ce62a5d5b663510.19595.jpeg' style='width:177px;height:27px' alt='' title="Sans Serif"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402790/'>Sans Serif</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/lywe15usk2/wtf/'>mollusk</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://lineto.com/The%20Fonts/Font%20Categories/Text%20Fonts/Brown/' title="Link to lineto.com" class="external" target="_blank">Brown</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_187' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402976/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/42/427f6f812b9d51066eaa09a0a6baa83e.43426.jpeg' style='width:177px;height:66px' alt='' title="Skyeco Group"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402976/'>Skyeco Group</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/xoazxzboh6/wtf/'>AOMGINC@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://jamiewilson.io/norwester/' title="Link to jamiewilson.io" class="external" target="_blank">Norwester</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_188' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402964/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/a8/a8137968bcd039b6779c6a1892170617.5855.jpeg' style='width:177px;height:43px' alt='' title="Brewery"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402964/'>Brewery</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/54vb50ajrz/wtf/'>brenda_shewm&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/adobe/script-mt/bold/'>Script MT Std Bold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_189' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402955/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/79/79bc17b51919874c07256b6acbbad319.12146.jpeg' style='width:177px;height:132px' alt='' title="Sing"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402955/'>Sing</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/cjlqhecznb/wtf/'>kgunning@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/ascender/trebuchet/bold-italic/'>Trebuchet Bold Italic</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_190' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1392969/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/5e/5edde2eea6a9b0d3bf7d92e8b5faf649.1970.jpeg' style='width:74px;height:79px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1392969/'>(no title)</a><br><span class='when_started'>started 3 weeks ago</span></td>
+                                                    <td><a href='/users/tn914d8fui/wtf/'>kfarrens@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.dafont.com/angelina.font' title="Link to dafont.com" class="external" target="_blank">Angelina</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_191' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402904/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/b9/b90175f8fadfc94b13964e14d8e2885e.18780.jpeg' style='width:177px;height:123px' alt='' title="Secrets Typeface"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402904/'>Secrets Typeface</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/p0v324nz9i/wtf/'>lsigillo@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://commercialtype.com/catalog/duplicate/duplicate_ionic' title="Link to commercialtype.com" class="external" target="_blank">Duplicate Ionic</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_192' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402948/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/43/432337ef11df0d593636f08ab235c3f1.16152.jpeg' style='width:177px;height:37px' alt='' title="(no title)"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402948/'>(no title)</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/069mp92jey/wtf/'>felipeb7048@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/itc/challenge/extra-bold/'>Challenge Extra Bold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_193' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1400339/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/a8/a869a10cfaea169b6e37398d6f0cdfac.2278.jpeg' style='width:23px;height:132px' alt='' title="Font?"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1400339/'>Font?</a><br><span class='when_started'>started 1 week ago</span></td>
+                                                    <td><a href='/users/4xkl5d6oqg/wtf/'>suurfboy</a>,<br><a href='/users/auq5ev1igc/wtf/'>Holy G.</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/urw/futura/t-bold-oblique/'>Futura Bold Oblique</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_194' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402926/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/9a/9a4a0f74e9f4cfcb03ad77821a415363.16050.jpeg' style='width:152px;height:132px' alt='' title="Is this a font?"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402926/'>Is this a font?</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/2glju8cttu/wtf/'>crachellee@&hellip;</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>4</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://creativemarket.com/WornOutMedia/1114430-Masterblush-Font' title="Link to creativemarket.com" class="external" target="_blank">Masterblush</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_195' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402940/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/75/75256b544ac67196dfdd1da3bb516b6d.21234.jpeg' style='width:123px;height:132px' alt='' title="Doug Crew"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402940/'>Doug Crew</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/f4p1qzunkx/wtf/'>kellyjo50</a>,<br><a href='/users/xklcndznrl/wtf/'>Tecnotronic</a></td>
+                                                    <td class='replies'>3</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='http://www.houseind.com/fonts/badneighborhood' title="Link to houseind.com" class="external" target="_blank">Crackhouse</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_196' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402699/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/ca/ca7b91aabf7a2945f174f0ae00f29593.28686.jpeg' style='width:177px;height:125px' alt='' title="Custom"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402699/'>Custom</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/bxckiosmem/wtf/'>pfckce</a>,<br><a href='/users/9cwgdwl14w/wtf/'>Polya</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://creativemarket.com/RCKY/1759861-Kind-Heart-Font-Duo' title="Link to creativemarket.com" class="external" target="_blank">Kind Heart</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_197' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1395446/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/b1/b1b9547ca35fca64c1a2f82d6d75a3df.12288.jpeg' style='width:177px;height:59px' alt='' title="??"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1395446/'>??</a><br><span class='when_started'>started 2 weeks ago</span></td>
+                                                    <td><a href='/users/kuq2o0ce54/wtf/'>sirarcher@&hellip;</a>,<br><a href='/users/auq5ev1igc/wtf/'>Holy G.</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='https://try.typography.com/?font=100042' title="Link to typography.com" class="external" target="_blank">Ideal Sans Bold or Semibold</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_198' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402896/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/37/372c4cf0964b362f22adddacb83a4a9a.9908.jpeg' style='width:177px;height:35px' alt='' title="Please Help Me Identify This Font!"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402896/'>Please Help Me Identify This Font!</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/yatkphgboa/wtf/'>jonahharter@&hellip;</a></td>
+                                                    <td class='replies'>1</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li class='unsolved'>None yet</li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_199' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402865/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/e7/e72dfdba1b8ea56bc4580cb82099c807.6396.jpeg' style='width:177px;height:59px' alt='' title="What the Font?"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402865/'>What the Font?</a><br><span class='when_started'>started 3 days ago</span></td>
+                                                    <td><a href='/users/l052hq81q0/wtf/'>manomatos18@&hellip;</a>,<br><a href='/users/ga7tx59cl0/wtf/'>hazoo</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li><a href='/fonts/sudtipos/zulia-pro/regular/'>Zulia Pro</a></li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                
+                                    <tr>                            <td class='img'><a class='search-results-anchor' name='item_200' id='anchor_uid_'></a><a href='/WhatTheFont/forum/case/1402937/'><img src='http://myfonts-wtf.s3.amazonaws.com/thumbs/177x132/ae/ae94d9a49ebb0fee955150b2b00a6795.85224.jpeg' style='width:177px;height:128px' alt='' title="I solemnly swear"></a></td>
+                                                    <td><a href='/WhatTheFont/forum/case/1402937/'>I solemnly swear</a><br><span class='when_started'>started 2 days ago</span></td>
+                                                    <td><a href='/users/qa2hhwsp1u/wtf/'>myglamboutiq&hellip;</a></td>
+                                                    <td class='replies'>2</td>
+                                                    <td>2 days ago</td>
+                                                    <td><ul><li class='unsolved'>None yet</li></ul></td>
+                                                    <td class='status'><span class='solved_Y dot'>&#8226;</span>Solved</td>
+                        </tr>
+                                
+                            <tr><td colspan='7'>            <form id='end_of_the_wtf_results' class='pagination' method='get' action='/WhatTheFont/forum/201-250/'>
+                <input type='hidden' name='sort' value=''>
+                <input type='hidden' name='view' value='list'>
+                                <input class='next_results_submit' type='submit' value='Load next 50 of 420434 remaining results&hellip;' >
+
+                            <table class='navigation' cellspacing='0' cellpadding='0' style='display:none'><tr>
+                    <td class='prev'><a href='/WhatTheFont/forum/101-150/'>&laquo; Prev</a></td>
+                                                                                                <td><a href='/WhatTheFont/forum/1-50/'>1</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/51-100/'>2</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/101-150/'>3</a></td>
+                                                                                                                                                <td class='current_page'>4</td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/201-250/'>5</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/251-300/'>6</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/301-350/'>7</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/351-400/'>8</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/401-450/'>9</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/451-500/'>10</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/501-550/'>11</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/551-600/'>12</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/601-650/'>13</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/651-700/'>14</a></td>
+                                                                                                                                                <td><a href='/WhatTheFont/forum/701-750/'>15</a></td>
+                                                                                            <td>&hellip;</td>                                                    <td><a href='/WhatTheFont/forum/420601-420650/'>8413</a></td>
+                                                                                        <td class='next'><a href='/WhatTheFont/forum/201-250/'>Next &raquo;</a></td>
+                </tr></table>
+        
+
+            </form>
+            </td></tr>        
+
+        <script type='text/javascript'>
+            <!--
+            //$('search_box').value = "";
+            
+            
+                                    //-->
+        </script>
+
+
+
+        <script type='text/javascript'>Behaviour.apply('wtf_results');</script>
+
+
+ 
